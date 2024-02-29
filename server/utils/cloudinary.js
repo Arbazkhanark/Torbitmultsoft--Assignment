@@ -2,8 +2,8 @@ import {v2 as cloudinary} from 'cloudinary';
           
 cloudinary.config({ 
   cloud_name: 'dlokhninm', 
-  api_key: '779463755663315', 
-  api_secret: 'eoEYUnziDk2h87Qov8eCJqXUsTU' 
+  api_key: 'Use_Your_API_Key', 
+  api_secret: 'eoEYUnziDk2h87Qov8eCJqXUsTUisajnm' 
 });
 
 
